@@ -2,7 +2,7 @@
 
 This is a simple calculator application created using basic HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-[Live Link](https://shorturl.at/lENS7)
+[Live Link](https://saan-king.github.io/SImple-Calculator/)
 
 
 ## Features
