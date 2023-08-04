@@ -4,7 +4,6 @@ This is a simple calculator application created using basic HTML, CSS, and JavaS
 
 [Live Link](https://saan-king.github.io/SImple-Calculator/)
 
-
 ## Features
 
 - Addition: Perform addition of two or more numbers.
